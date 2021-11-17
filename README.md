@@ -1,1 +1,2 @@
-# Efficient_Surveillance_of_Appliances
+# Efficient_Surveillance_of_Appliances  
+Interconnected all electric appliances in a House-hold Environment using IOT through which we could access them and monitor their states. Besides we also incorporated a GSM module which comes handy when there is no good Internet connectivity. In short our module can handle requests from a webpage and also from a text message so that we can control any appliance even in our physical absence.
